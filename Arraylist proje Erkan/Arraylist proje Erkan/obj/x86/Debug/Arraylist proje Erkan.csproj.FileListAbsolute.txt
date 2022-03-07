@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\bin\Debug\Arraylist proje Erkan.exe
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\bin\Debug\Arraylist proje Erkan.pdb
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\obj\x86\Debug\Arraylist_proje_Erkan.Form1.resources
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\obj\x86\Debug\Arraylist_proje_Erkan.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\obj\x86\Debug\Arraylist proje Erkan.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\obj\x86\Debug\Arraylist proje Erkan.exe
+C:\Users\Kullanıcı\Desktop\alper\Arraylist proje Erkan\Arraylist proje Erkan\obj\x86\Debug\Arraylist proje Erkan.pdb
